@@ -1,0 +1,15 @@
+.title {
+    margin-top: 0;
+    font-family: "DM Serif Display", serif;
+    text-align: center;
+
+    &--xl {
+
+        font-size: var(--title-xl);
+        line-height: 48px;
+        letter-spacing: -0.67px;
+        margin-bottom: 32px;
+
+    }
+
+}

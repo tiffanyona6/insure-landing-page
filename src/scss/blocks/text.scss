@@ -1,0 +1,11 @@
+.text {
+
+    line-height: 26px;
+    margin-top: 0;
+
+    &__card {
+        color: white;
+        font-size: var(--text-body);
+        margin-bottom: 32px;
+    }
+}
